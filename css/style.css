@@ -61,7 +61,7 @@ html {
 
 .closeBtn:hover,
 .closeBtn:focus {
-    color: white;
+    color: black;
     text-decoration: none;
     cursor: pointer;
 }
